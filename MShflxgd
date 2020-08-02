@@ -1,0 +1,3 @@
+Private Sub EditGridText(fGrid As MSHFlexGrid, _
+    cEdit As TextBox, KeyAscii As IntegerPrivate Sub EditGridText(fGrid As MSHFlexGrid, _
+    cEdit As TextBox, KeyAscii As Integer
